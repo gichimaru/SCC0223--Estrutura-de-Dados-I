@@ -12,9 +12,3 @@ Cada pasta numerada corresponde a um trabalho ou lista de exercícios específic
 * **06- Conta Bancária:** Implementação e uso de uma fila (queue) para simular operações bancárias.
 * **07- Lógica de Programação:** Exercícios para reforçar a base de programação.
 * **08- Árvore AVL de jogos:** Implementação de uma árvore binária de busca balanceada (Árvore AVL).
-
-## 🛠️ Tecnologias Utilizadas
-* **Linguagem de Programação:** C (padrão C99)
-* **Compilador:** GCC (GNU Compiler Collection)
-* **Ambiente:** Linux (Ubuntu)
-* **Versionamento:** Git & GitHub
